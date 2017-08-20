@@ -1,0 +1,11 @@
+.active
+ {
+ background:#9CC;
+ }
+.div2
+ {
+ width:300px;
+ height:200px;
+ border:1px #666666 solid;
+ display:none;
+ }
